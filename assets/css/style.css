@@ -1104,3 +1104,25 @@ section .container {
     transform: translateX(-50%);
   }
 }
+.edu{
+  height: 200px;
+  width: 250px;
+  margin: 10px;
+}
+
+.proj{
+  height: 160px;
+  width: 340px;
+}
+
+.newform{
+  -ms-flex: 0 0 50%;
+  flex: 0 0 100%;
+  max-width: 100%;
+}
+
+textarea{
+  width: 100%;
+  border: 1px solid #ced4da;
+  border-radius: .25rem;
+}
