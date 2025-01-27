@@ -1107,7 +1107,7 @@ section .container {
 .edu{
   height: 200px;
   width: 250px;
-  margin: 10px;
+  margin: 10px 0px;
 }
 
 .proj{
@@ -1125,4 +1125,8 @@ textarea{
   width: 100%;
   border: 1px solid #ced4da;
   border-radius: .25rem;
+}
+
+.row{
+  margin-right: 0px;
 }
